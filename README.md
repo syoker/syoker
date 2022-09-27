@@ -1,9 +1,9 @@
 <h1>Hi, I'm Syoker</h1>
 
-<p align=right>
+<div align=right>
     <img src=https://github-readme-stats.vercel.app/api?username=Syoker&show_icons=true alt=SyokerGitHubstats>
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Syoker&layout=compact alt=TopLangs>
-</p>
+</div>
 
 <h3>An electronics technician with a bit of programmer who likes anime and manga.</h3>
 
