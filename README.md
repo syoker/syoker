@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Syoker" />
+
 # Hi, I'm Syoker
 
 <div align=right>
