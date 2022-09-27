@@ -4,7 +4,7 @@
     <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Syoker&layout=compact alt=TopLangs>
 </div>
 
-### An electronics technician with a bit of programmer who likes anime and manga.
+**An electronics technician with a bit of programmer who likes anime and manga.**
 
 - I usually make modules for my device.
 - I'm currently working on my personal website and blog.
