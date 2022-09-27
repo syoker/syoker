@@ -10,5 +10,8 @@
 - I'm currently working on my personal website and blog.
 - You can find me on **[Telegram](https://t.me/Syoker)**.
 
-<img align="right" src=https://github-readme-stats.vercel.app/api?username=Syoker&show_icons=true alt=SyokerGitHubstats>
+<div align=center>
+    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Syoker&show_icons=true alt=SyokerGitHubstats>
+</div>
+
 
