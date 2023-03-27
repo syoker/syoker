@@ -6,9 +6,9 @@
 
 **An electronics technician with a bit of programmer who likes anime and manga.**
 
+- I'm currently learning React.
 - I usually make modules for my device.
 - I'm currently studying at the university.
-- Learning React.
 - You can find me on **[Telegram](https://t.me/Syoker)**.
 
 <div align="right">
