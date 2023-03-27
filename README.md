@@ -1,6 +1,6 @@
 # Hi, I'm Syoker
 
-<div align="right">
+<div styles="display: flex; flex-direction:column; align-items: right">
     <div align="right">
         <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Syoker&layout=compact alt=TopLangs>
     </div>
