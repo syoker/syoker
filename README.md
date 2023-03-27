@@ -1,11 +1,11 @@
 # Hi, I'm Syoker
 
-<div align=right>
+<div align="right">
     <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Syoker&layout=compact alt=TopLangs>
 </div>
 
-<div align=right>
-    <img align=right src=https://github-readme-stats.vercel.app/api?username=Syoker&show_icons=true alt=SyokerGitHubstats>
+<div align="right">
+    <img align="right" src=https://github-readme-stats.vercel.app/api?username=Syoker&show_icons=true alt=SyokerGitHubstats>
 </div>
 
 **An electronics technician with a bit of programmer who likes anime and manga.**
