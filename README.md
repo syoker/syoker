@@ -1,5 +1,6 @@
 # Hi, I'm Syoker
 
+
 **An electronics technician with a bit of programmer who likes anime and manga.**
 
 - I'm currently learning React.
@@ -12,4 +13,7 @@
 </div>
 <div align="left">
     <img src=https://github-readme-stats.vercel.app/api?username=Syoker&show_icons=true alt=SyokerGitHubstats>
+</div>
+<div align="left">
+    ![](https://komarev.com/ghpvc/?username=Syoker&color=green)
 </div>
