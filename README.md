@@ -1,7 +1,6 @@
 # Hi, I'm Syoker
 
-
-**An electronics technician who enjoys programming, watching anime and reading manga.**
+**A web developer who likes watching anime and reading manga.**
 
 - I'm currently learning React.
 - I usually make modules for my device.
