@@ -1,14 +1,14 @@
-<article align="center" style="position: relative;">
-    <section align="right" style="position: absolute; top: 1rem; right: 0rem">
+<div align="center" style="position: relative;">
+    <div align="right" style="position: absolute; top: 1rem; right: 0rem">
         <img alt="Syoker" src="https://komarev.com/ghpvc/?username=syoker&label=Profile%20views&color=0e75b6&style=flat" />
-    </section>
+    </div>
     <h1>Hi, I'm Syoker</h1>
     <p>
         <strong>
             A web developer who likes watching anime and reading manga
         </strong>
     </p>
-    <section style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap">
+    <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap">
         <img alt="Static Badge" src="https://img.shields.io/badge/html-191919?style=for-the-badge&logo=html5" />
         <img alt="Static Badge" src="https://img.shields.io/badge/css-191919?style=for-the-badge&logo=css3&logoColor=1572B6" />
         <img alt="Static Badge" src="https://img.shields.io/badge/javascript-191919?style=for-the-badge&logo=javascript" />
@@ -25,8 +25,8 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/c-191919?style=for-the-badge&logo=c" />
         <img alt="Static Badge" src="https://img.shields.io/badge/bash-191919?style=for-the-badge&logo=gnu%20bash" />
         <img alt="Static Badge" src="https://img.shields.io/badge/magisk%20modules-191919?style=for-the-badge&logo=magisk" />
-    </section>
-    <section align="center" style="margin-top: 1.2rem">
+    </div>
+    <div align="center" style="margin-top: 1.2rem">
         <img alt=SyokerGitHubstats src=https://github-readme-stats.vercel.app/api?username=syoker&show_icons=true />
-    </section>
-</article>
+    </div>
+</div>
