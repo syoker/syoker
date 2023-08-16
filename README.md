@@ -26,7 +26,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/bash-191919?style=for-the-badge&logo=gnu%20bash" />
         <img alt="Static Badge" src="https://img.shields.io/badge/magisk%20modules-191919?style=for-the-badge&logo=magisk" />
     </div>
-    <div align="center" style="margin-top: 1.2rem">
+    <div align="center" margin="1rem" style="margin-top: 1.2rem">
         <img alt=SyokerGitHubstats src=https://github-readme-stats.vercel.app/api?username=syoker&show_icons=true />
     </div>
 </div>
